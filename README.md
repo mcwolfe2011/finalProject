@@ -75,7 +75,7 @@ To start off on the right foot, you’ll need a good project setup:
 
 #### a. Git repo setup
 
-Create a repo on GitHub and give access to all team members.
+- [] Create a repo on GitHub and give access to all team members.
 
 #### b. Project scaffold
 
@@ -105,7 +105,7 @@ What hurdles are you facing
 
 #### Deliverable:
 
-Daily stand up - Monica
+- [x] Daily stand up - Monica
 
 #### b. Project Workflow
 
