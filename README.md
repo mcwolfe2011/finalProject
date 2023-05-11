@@ -33,31 +33,31 @@ All businesses that use email to communicate and get sales lead.
 
 Ramic Laguitan, Takuya Toyokawa, Monica Wolfe
 
-### Deliverable:
+#### Deliverable:
 
 Project Description document - ?
 
-### b. User Stories
+#### b. User Stories
 
 User stories allow you to draft the high-level requirements based on the user needs. It should describe the interaction of the user and the app.
 
-### Deliverable:
+#### Deliverable:
 
 User stories document - ?
 
-### c. Wireframes
+#### c. Wireframes
 
-### Deliverable:
+#### Deliverable:
 
 Wireframe designs - ?
 
-### d. Entity Relationship Diagram
+#### d. Entity Relationship Diagram
 
-### Deliverable:
+#### Deliverable:
 
 ERD design - ?
 
-### e. Stack Choices
+#### e. Stack Choices
 
 What are the technologies you’re going to use to develop for your app. You need to think about:
 
@@ -65,6 +65,6 @@ Front-End
 Back-End
 Database
 
-### Deliverable:
+#### Deliverable:
 
 Stack choices document - ?
