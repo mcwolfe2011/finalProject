@@ -11,9 +11,9 @@
 
 In the planning phase, you’ll prepare several documents to help guide your team through the execution of your project.
 
-- [] Google API - Takuya
-- [] ChatGPT API - Ramic
-- [] Instantly API - Monica
+- [x] Google API - Takuya
+- [x] ChatGPT API - Ramic
+- [x] Instantly API - Monica
 
 ### Deadline:
 
@@ -55,8 +55,6 @@ Choices:
 
 Project Description document
 
--
-
 #### b. User Stories
 
 User stories allow you to draft the high-level requirements based on the user needs. It should describe the interaction of the user and the app.
@@ -77,7 +75,7 @@ User stories document:
 
 Wireframe designs
 
-- Monica
+- [x] Monica
 
 #### d. Entity Relationship Diagram
 
@@ -85,7 +83,7 @@ Wireframe designs
 
 ERD design:
 
-- Takuya
+- [x] Takuya
 
 #### e. Stack Choices
 
@@ -110,8 +108,8 @@ To start off on the right foot, you’ll need a good project setup:
 
 #### a. Git repo setup
 
-- [x] Create a repo on GitHub and give access to all team members.
-- Takuya
+- Create a repo on GitHub and give access to all team members.
+- [x] Takuya
 
 #### b. Project scaffold
 
@@ -123,7 +121,7 @@ If needed, you have to decide which boilerplate code you’re going to use for y
 
 You may need to create the database and the initial migration.
 
-- Takuya
+- [x] Takuya
 
 #### d. Seed file
 
