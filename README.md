@@ -75,7 +75,8 @@ To start off on the right foot, you’ll need a good project setup:
 
 #### a. Git repo setup
 
-- [] Create a repo on GitHub and give access to all team members.
+- [x] Create a repo on GitHub and give access to all team members.
+- Takuya
 
 #### b. Project scaffold
 
