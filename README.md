@@ -82,13 +82,23 @@ Wireframe designs
 
 !["Gif"](https://github.com/mcwolfe2011/finalProject/blob/master/docs/2.png?raw=true)
 
-#### d. Entity Relationship Diagram
+!["When user is signed in"](https://github.com/mcwolfe2011/finalProject/blob/master/docs/3.png?raw=true)
 
-#### Deliverable:
+!["When upload CSV is clicked"](https://github.com/mcwolfe2011/finalProject/blob/master/docs/4.png?raw=true)
+
+!["When link to Google Sheet is clicked"](https://github.com/mcwolfe2011/finalProject/blob/master/docs/5.png?raw=true)
+
+!["AI Generated text"](https://github.com/mcwolfe2011/finalProject/blob/master/docs/6.png?raw=true)
+
+#### d. Entity Relationship Diagram
 
 ERD design:
 
 - [x] Takuya
+
+#### Deliverable:
+
+!["AI Generated text"](https://github.com/mcwolfe2011/finalProject/blob/master/docs/ERD.png?raw=true)
 
 #### e. Stack Choices
 
