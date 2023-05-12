@@ -75,7 +75,7 @@ User stories document:
 
 Wireframe designs
 
-- [x] Monica
+- [x] Ramic
 
 #### d. Entity Relationship Diagram
 
