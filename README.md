@@ -71,11 +71,16 @@ User stories document:
 
 #### c. Wireframe
 
-#### Deliverable:
-
 Wireframe designs
 
 - [x] Ramic
+- [x] Monica
+
+#### Deliverable:
+
+!["Homepage"](https://github.com/mcwolfe2011/finalProject/blob/master/docs/1.png?raw=true)
+
+!["Gif"](https://github.com/mcwolfe2011/finalProject/blob/master/docs/2.png?raw=true)
 
 #### d. Entity Relationship Diagram
 
