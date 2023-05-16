@@ -62,12 +62,12 @@ User stories allow you to draft the high-level requirements based on the user ne
 #### Deliverable:
 
 User stories document:
-
-- User log in using google auth
-- User should be able to select their google sheet and upload it directly to the app.
-- User should be able to map the input and map the result to the specific columns they choose.
-- User should be able to review the output from AI(ChatGPT) before sending it or post the value to google sheet.
-- Get the updated value and send it to an email campaign using instantly.
+- As a registered user of the app, I can log in using google auth.
+- *As a user, I can create personalized campaign and see stats: Leads, Completed, Bounced, or Unsubscribed.
+- *As a user, I can import leads as a CSV or Google Sheets file directly to the app.
+- *As a user, I can export the generated "Personalized line or message" and map it to the specific CSV or Google Sheet columns I choose.
+- As a user, I can review the output from AI(ChatGPT) before sending it or post the value to google sheet.
+- As a user, I can see the updated value (personalized line or message), displayed to me, can edit it  and send it to an email campaign using instantly.
 
 #### c. Wireframe
 
